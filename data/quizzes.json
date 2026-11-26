@@ -1,0 +1,64 @@
+[
+    {
+        "quiz_id": 1,
+        "title": "Python Basics",
+        "topic": "Python"
+    },
+    {
+        "quiz_id": 2,
+        "title": "python basics",
+        "topic": "python",
+        "questions": [
+            {
+                "question": "what is python?",
+                "options": [
+                    "programming language",
+                    "database",
+                    "variable",
+                    "operating system"
+                ],
+                "answer": "A"
+            },
+            {
+                "question": "what is variable?",
+                "options": [
+                    "container",
+                    "datanbase",
+                    "memory",
+                    "temporary variable"
+                ],
+                "answer": "A"
+            },
+            {
+                "question": "Oops stands for?",
+                "options": [
+                    "programming syatem",
+                    "type of python",
+                    "object oriented programming sytem",
+                    "object oriented programming"
+                ],
+                "answer": "C"
+            },
+            {
+                "question": "what is mutable data types?",
+                "options": [
+                    "list",
+                    "int",
+                    "set",
+                    "dict"
+                ],
+                "answer": "B"
+            }
+        ],
+        "reviews": [
+            {
+                "rating": 5,
+                "comment": "nice"
+            },
+            {
+                "rating": 5,
+                "comment": "very useful"
+            }
+        ]
+    }
+]
